@@ -1,1 +1,7 @@
-
+json
+{
+    "owner": {
+        "username": "olegatelega14980"
+    },
+    "record": {
+        "CNAME": "olegatelega14980.github.io"
